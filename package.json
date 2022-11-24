@@ -1,0 +1,15 @@
+{
+  "name": "webpack-react-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "unlicensed",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11",
+    "webpack": "^5.75.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
